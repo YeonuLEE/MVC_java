@@ -11,6 +11,8 @@
     <title>Title</title>
 </head>
 <body>
-
+<h2>비밀번호 검증</h2>
+    <form method="post" action="./view/Pass.do"/>
+    <input type= "submit" value="검증하기"/>
 </body>
 </html>
